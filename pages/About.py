@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="Dashboard", layout="wide"
+    page_title="About", layout="wide"
 )
 
 # Sidebar configuration
